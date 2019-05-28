@@ -3,4 +3,5 @@
   <groupId>com.taotao</groupId>
   <artifactId>test01</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <prerequisites></prerequisites>
 </project>
