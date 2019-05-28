@@ -4,4 +4,5 @@
   <artifactId>test01</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <prerequisites></prerequisites>
+  <dependencies></dependencies>
 </project>
